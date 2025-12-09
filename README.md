@@ -7,9 +7,10 @@ The fibonacci sequence is a series of numbers such that each term is a sum of th
 
 ## 🎇 Core Mechanism and Approach
 The generator uses an iterative approach(mainly while loops) to generate the sequence as it is generally faster than the recursive alternative.<br/>
+Everything is run in the main file in the python implementation. <br/>
 
 ## ✨ Class Methods and Key Features 
-Each implementation provides a *Fib()* object/class with following methods for the user to interact with: <br/>
+The C++ and Java implementations provide a *Fib()* object/class with following methods for the user to interact with: <br/>
 
 *setLast(int)*: Set the number of terms to generate in the sequence. <br/> <br/>
 *calculateSequence()*: Generates the sequence iteratively. <br/> <br/>
