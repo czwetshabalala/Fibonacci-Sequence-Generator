@@ -22,11 +22,10 @@ Each implementation provides a Fib() object/class with following methods for the
    cd Fibonacci-Sequence-Generator
    ```
 ### Usage Examples
-<br/>
 ### C++
-<br/>
 This code creates a fibonacci object, sets the number of terms to generate, generates the sequence, and then displays the sequence. <br/>
-   ```cpp
+
+```cpp
 Fib fibTest;
 fibTest.setLast(0);
 fibTest.calculateSequence(); 
