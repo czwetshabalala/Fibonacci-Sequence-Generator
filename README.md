@@ -34,6 +34,7 @@ fibTest.calculateSequence();
 cout<<"Test 1:"<<endl; 
 cout<<fibTest.displaySequence()<<endl; 
 return 0;
+  ```
 
 ##Known issues
 The Java implementation is still in the works.
