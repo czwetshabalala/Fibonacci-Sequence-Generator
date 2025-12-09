@@ -1,15 +1,16 @@
 # Fibonacci-Sequence-Generator
-## This repo contains the code for a Fibonacci sequence generator implemented in *Python*, *C++*, as well as *Java*.
-The fibonacci sequence is a series of numbers such that each number is a sum of the previous two numbers in the series. The first two numebrs in the sequence are 0 and 1 which form the foundation of which the sequence is built from. This program is an implementation of this sequence using while loops. <br/>
-### How the code works: 
+## a Fibonacci sequence generator implemented across *Python*, *C++*, as well as *Java*.
+The fibonacci sequence is a series of numbers such that each term is a sum of the previous two terms in the series. The first two terms in the sequence are ,0 and 1, form the foundation on which the sequence is built on.The generator uses an iterative approach(mainly while loops) to generate the sequence as it is generally faster than the recursive alternative.<br/>
 
-The code allows the user to create a fibonacci object and enter in how many terms in the sequence they want to generate. <br/>
+### Class Methods and Key Features: 
+Each implementation provides a Fib() object/class with following methods for the user to interact with: <br/>
 
-The object allows the users to: <br/>
-  1. Create a fibonacci sequence generator object <br/>
-  2. Initialise the the amount of terms you want to generate <br/>
-  3. Calculate the terms in the sequence. <br/>
-  4. Display the sequence. <br/>
+*setLast(int)*: Set the number of terms to generate in the sequence. <br/>
+*calculateSequence()*: Generates the sequence iteratively. <br/>
+*displaySequence()* : Displays the generated sequence as a string. <br/>
+*search(int n)*: Allows the user to search the generated sequence for a value. <br/>
+
+     
 
 
 
