@@ -30,7 +30,7 @@ This code creates a fibonacci object, sets the number of terms to generate, gene
 
 ```cpp
 Fib fibTest;
-fibTest.setLast(0);
+fibTest.setLast(10);
 fibTest.calculateSequence(); 
 cout<<"Test 1:"<<endl; 
 cout<<fibTest.displaySequence()<<endl; 
