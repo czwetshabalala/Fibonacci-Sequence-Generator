@@ -9,7 +9,7 @@ The fibonacci sequence is a series of numbers such that each term is a sum of th
 The generator uses an iterative approach(mainly while loops) to generate the sequence as it is generally faster than the recursive alternative.<br/>
 
 ## Class Methods and Key Features 
-Each implementation provides a Fib() object/class with following methods for the user to interact with: <br/>
+Each implementation provides a *Fib()* object/class with following methods for the user to interact with: <br/>
 
 *setLast(int)*: Set the number of terms to generate in the sequence. <br/> <br/>
 *calculateSequence()*: Generates the sequence iteratively. <br/> <br/>
@@ -33,10 +33,10 @@ fibTest.setLast(0);
 fibTest.calculateSequence(); 
 cout<<"Test 1:"<<endl; 
 cout<<fibTest.displaySequence()<<endl; 
-return 0; 
-   
+return 0;
 
-
+##Known issues
+The Java implementation is still in the works.
      
 
 
