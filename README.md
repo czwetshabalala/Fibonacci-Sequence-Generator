@@ -1,2 +1,4 @@
 # Fibonacci-Sequence-Generator
-Fibonacci sequence generator implemented across *Python*, *C++*, as well as *Java*.
+## The repo contains the code for a Fibonacci sequence generator implemented across *Python*, *C++*, as well as *Java*.
+
+
