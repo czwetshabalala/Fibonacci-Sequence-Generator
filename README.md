@@ -24,8 +24,8 @@ Each implementation provides a Fib() object/class with following methods for the
 ### Usage Examples
 ###C++
 Create a Fibonacci Object: <br/>
-   ```cpp Fib fibTest;```
-Set the number of terms, generate the sequence, and display the sequence:
+   ```cpp Fib fibTest;``` <br/>
+Set the number of terms, generate the sequence, and display the sequence:  <br/>
     ```cpp fibTest.setLast(0);
     fibTest.calculateSequence();
     cout<<"Test 1:"<<endl;
