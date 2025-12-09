@@ -23,15 +23,14 @@ Each implementation provides a Fib() object/class with following methods for the
    ```
 ### Usage Examples
 ### C++
-Create a Fibonacci Object: <br/>
-   ```cpp Fib fibTest;``` <br/>
-Set the number of terms, generate the sequence, and display the sequence:  <br/>
-    ```cpp fibTest.setLast(0); <br/>
-    fibTest.calculateSequence(); <br/>
-    cout<<"Test 1:"<<endl; <br/>
-    cout<<fibTest.displaySequence()<<endl; <br/>
-    return 0; <br/>
-     ```
+Create a Fibonacci Object: 
+   ```cpp Fib fibTest;
+      fibTest.setLast(0);
+    fibTest.calculateSequence(); 
+    cout<<"Test 1:"<<endl; 
+    cout<<fibTest.displaySequence()<<endl; 
+    return 0;   ```
+   
 
 
      
