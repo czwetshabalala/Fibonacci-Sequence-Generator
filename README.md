@@ -16,14 +16,23 @@ Each implementation provides a Fib() object/class with following methods for the
 *~Fib()*: The destructor deallocates all memory used up by the object. <br/> <br/>
 
 ### Installation
-1. **Clone the repository:**
-   git clone [https://github.com/czwetshabalala/Fibonacci-Sequence-Generator.git]
-
- 2. Access repository from website: (https://github.com/czwetshabalala/Fibonacci-Sequence-Generator.git)
+**Clone the repository:**
+   ```bash
+   git clone [https://github.com/czwetshabalala/Fibonacci-Sequence-Generator.git](https://github.com/czwetshabalala/Fibonacci-Sequence-Generator.git)
+  
    cd Fibonacci-Sequence-Generator
-
 ### Usage Examples
-python\
+###C++
+Create a Fibonacci Object: <br/>
+   ''' cpp Fib fibTest;
+Set the number of terms, generate the sequence, and display the sequence:
+    fibTest.setLast(0);
+    fibTest.calculateSequence();
+    cout<<"Test 1:"<<endl;
+    cout<<fibTest.displaySequence()<<endl;
+    return 0;
+
+
      
 
 
