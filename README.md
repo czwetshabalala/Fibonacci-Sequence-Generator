@@ -31,7 +31,7 @@ fibTest.setLast(0);
 fibTest.calculateSequence(); 
 cout<<"Test 1:"<<endl; 
 cout<<fibTest.displaySequence()<<endl; 
-return 0;   ```
+return 0; ```
    
 
 
