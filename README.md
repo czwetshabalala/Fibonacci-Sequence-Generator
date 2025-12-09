@@ -1,5 +1,6 @@
 # 🔢*Fibonacci Sequence Generator* 
 <img src="Depositphotos_686265056_L.webp" alt="Fibonacci Sequence" width="800"/>
+
 ### implemented across *Python*, *C++*, as well as *Java*.
 ## What is the Fibonacci Sequence
 The fibonacci sequence is a series of numbers such that each term is a sum of the previous two terms in the series. The first two terms in the sequence are , 0 and 1, form the foundation on which the sequence is built on.<br/>
