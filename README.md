@@ -5,10 +5,11 @@ The fibonacci sequence is a series of numbers such that each term is a sum of th
 ### Class Methods and Key Features: 
 Each implementation provides a Fib() object/class with following methods for the user to interact with: <br/>
 
-*setLast(int)*: Set the number of terms to generate in the sequence. <br/>
-*calculateSequence()*: Generates the sequence iteratively. <br/>
-*displaySequence()* : Displays the generated sequence as a string. <br/>
-*search(int n)*: Allows the user to search the generated sequence for a value. <br/>
+*setLast(int)*: Set the number of terms to generate in the sequence. <br/> <br/>
+*calculateSequence()*: Generates the sequence iteratively. <br/> <br/>
+*displaySequence()* : Displays the generated sequence as a string. <br/> <br/>
+*search(int n)*: Allows the user to search the generated sequence for a value. <br/> <br/>
+*~Fib()*: The destructor deallocates all memory used up by the object. <br/> <br/>
 
      
 
