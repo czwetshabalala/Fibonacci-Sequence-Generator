@@ -18,7 +18,7 @@ The C++ and Java implementations provide a *Fib()* object/class with following m
 *search(int n)*: Allows the user to search the generated sequence for a value. <br/> <br/>
 *~Fib()*: The destructor deallocates all memory used up by the object. <br/> <br/>
 
-## *🌀Installation
+## 🌀Installation
 *Clone the repository:**
    ```bash
    git clone [https://github.com/czwetshabalala/Fibonacci-Sequence-Generator.git](https://github.com/czwetshabalala/Fibonacci-Sequence-Generator.git)
