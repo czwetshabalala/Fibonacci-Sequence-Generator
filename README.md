@@ -6,7 +6,7 @@ The fibonacci sequence is a series of numbers such that each term is a sum of th
 ### Core Mechanism and Approach
 The generator uses an iterative approach(mainly while loops) to generate the sequence as it is generally faster than the recursive alternative.<br/>
 
-### Class Methods and Key Features: 
+### Class Methods and Key Features 
 Each implementation provides a Fib() object/class with following methods for the user to interact with: <br/>
 
 *setLast(int)*: Set the number of terms to generate in the sequence. <br/> <br/>
@@ -15,7 +15,15 @@ Each implementation provides a Fib() object/class with following methods for the
 *search(int n)*: Allows the user to search the generated sequence for a value. <br/> <br/>
 *~Fib()*: The destructor deallocates all memory used up by the object. <br/> <br/>
 
+### Installation
+1. **Clone the repository:**
+   git clone [https://github.com/czwetshabalala/Fibonacci-Sequence-Generator.git]
 
+ 2. Access repository from website: (https://github.com/czwetshabalala/Fibonacci-Sequence-Generator.git)
+   cd Fibonacci-Sequence-Generator
+
+### Usage Examples
+python\
      
 
 
