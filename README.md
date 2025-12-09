@@ -19,18 +19,19 @@ Each implementation provides a Fib() object/class with following methods for the
 **Clone the repository:**
    ```bash
    git clone [https://github.com/czwetshabalala/Fibonacci-Sequence-Generator.git](https://github.com/czwetshabalala/Fibonacci-Sequence-Generator.git)
-  
    cd Fibonacci-Sequence-Generator
+   ```
 ### Usage Examples
 ###C++
 Create a Fibonacci Object: <br/>
-   ''' cpp Fib fibTest;
+   ```cpp Fib fibTest;```
 Set the number of terms, generate the sequence, and display the sequence:
-    fibTest.setLast(0);
+    ```cpp fibTest.setLast(0);
     fibTest.calculateSequence();
     cout<<"Test 1:"<<endl;
     cout<<fibTest.displaySequence()<<endl;
     return 0;
+     ```
 
 
      
