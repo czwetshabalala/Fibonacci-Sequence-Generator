@@ -3,8 +3,9 @@
 
 ### implemented across *Python*, *C++*, as well as *Java*.
 ## 📌 What is the Fibonacci Sequence
-The fibonacci sequence is a series of numbers such that each term is a sum of the previous two terms in the series. The first two terms in the sequence, 0 and 1, form the foundation on which the sequence is built on.<br/>
-An example of the sequence is as follows: 0, 1, 1, 2, 3, 5, 8, 11, 19, 30, 49. <br/>
+The fibonacci sequence is a series of numbers such that each term is a sum of the previous two terms in the series. The first two terms in the sequence, 0 and 1, form the foundation on which the sequence is built on.<br/> <br/>
+
+### An example of the sequence is as follows: 0, 1, 1, 2, 3, 5, 8, 11, 19, 30, 49. <br/>
 
 ## 🎇 Core Mechanism and Approach
 The generator uses an iterative approach(mainly while loops) to generate the sequence as it is generally faster than the recursive alternative.<br/>
