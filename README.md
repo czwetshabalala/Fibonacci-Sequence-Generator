@@ -1,5 +1,5 @@
 # 🔢*Fibonacci Sequence Generator* 
-<img src="Depositphotos_686265056_L.webp" alt="Fibonacci Sequence" width="800"/>
+<img src="Depositphotos_686265056_L.webp" alt="Fibonacci Sequence" width="500"/>
 
 ### implemented across *Python*, *C++*, as well as *Java*.
 ## 📌 What is the Fibonacci Sequence
